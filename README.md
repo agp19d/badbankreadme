@@ -4,23 +4,23 @@ The Bad Bank project aims to provide a simplified banking experience for users. 
 
 ## Installation Guidelines:
 ### Clone the repository:
-`
+```bash
 git clone https://github.com/agp19d/badbankreadme.git
-`
+```
 ### Change to the project directory:
-`
+```bash
 cd badbankreadme
-`
+```
 ### Install the dependencies:
 
-`
+ ```bash
 npm install
-`
+```
 
 ### Start the project:
-` bash
+ ```bash
 npm start
-`
+```
 
 ## Screenshots:
 <img src=users.png />
