@@ -3,22 +3,22 @@
 The Bad Bank project aims to provide a simplified banking experience for users. It serves as a platform for seamless financial transactions, helping people manage their funds with ease and security. Built with the user in mind, it addresses the need for a straightforward and efficient banking solution.
 
 ## Installation Guidelines:
-Clone the repository:
+### Clone the repository:
 `
 git clone https://github.com/agp19d/badbankreadme.git
 `
-Change to the project directory:
+### Change to the project directory:
 `
 cd badbankreadme
 `
-Install the dependencies:
+### Install the dependencies:
 
 `
 npm install
 `
 
-Start the project:
-`
+### Start the project:
+` bash
 npm start
 `
 
@@ -27,15 +27,15 @@ npm start
 
 
 ## Technology Used:
-Node.js
-Express.js
-MongoDB
-Docker
+- Node.js
+- Express.js
+- MongoDB
+- Docker
 
 ## Features:
-Efficient Transaction Management
-User-Friendly Interface
-Robust Security Features
+- Efficient Transaction Management
+- User-Friendly Interface
+- Robust Security Features
 
 ## License:
 MIT License
